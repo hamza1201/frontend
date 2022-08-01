@@ -26,7 +26,7 @@ const NotFound = () => (
           }}
         >
           <Typography align="center" color="textPrimary" variant="h1">
-            404: The page you are looking for is not here
+            404:: The page you are looking for is not here!!!!!!!!!
           </Typography>
           <Typography align="center" color="textPrimary" variant="subtitle2">
             You either tried some shady route or you came here by mistake. Whichever it is, try
@@ -51,7 +51,7 @@ const NotFound = () => (
               sx={{ mt: 3 }}
               variant="contained"
             >
-              Go back to dashboard
+              Go back to dashboarddddd
             </Button>
           </NextLink>
         </Box>
